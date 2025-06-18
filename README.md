@@ -1,16 +1,16 @@
-# 🔍 Duplicate Question Detection using ML
+#  Duplicate Question Detection using ML
 
 This project focuses on detecting duplicate questions using the **Quora Question Pairs dataset**. Various classification algorithms were trained and evaluated to identify the most effective model for this natural language processing (NLP) task.
 
 ---
 
-## 📌 Objective
+##  Objective
 
 > **To build a robust machine learning system that identifies whether two questions are semantically similar (duplicates) using the Quora Question Pair dataset.**
 
 ---
 
-## 📊 Models Trained
+##  Models Trained
 
 The following classification models were implemented and compared:
 
@@ -28,20 +28,20 @@ Each model was evaluated based on metrics such as **accuracy**, **precision**, *
 
 ---
 
-## 🏆 Outcome
+##  Outcome
 
 > Trained and evaluated various classification models and highlighted the best-performing model for identifying duplicate questions using the Quora Question Pair dataset.
 
 ---
 
-## 📁 Dataset
+##  Dataset
 
 - Dataset used: [Quora Question Pairs](https://www.kaggle.com/c/quora-question-pairs)
 - Format: CSV containing question pairs and labels (`is_duplicate`)
 
 ---
 
-## 🧪 Features & Techniques
+##  Features & Techniques
 
 - Text preprocessing and tokenization
 - Feature engineering: word match share, TF-IDF vectors, and sentence embeddings
@@ -51,7 +51,7 @@ Each model was evaluated based on metrics such as **accuracy**, **precision**, *
 
 ---
 
-## 📦 Tech Stack
+##  Tech Stack
 
 - Python
 - Scikit-learn
@@ -61,7 +61,7 @@ Each model was evaluated based on metrics such as **accuracy**, **precision**, *
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 1. Clone the repo:
    ```bash
